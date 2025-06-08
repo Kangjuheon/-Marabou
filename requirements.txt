@@ -2,4 +2,5 @@ torch>=2.0.0
 torchvision>=0.15.0
 onnx>=1.14.0
 numpy>=1.24.0
-matplotlib>=3.7.0 
+matplotlib>=3.7.0
+# maraboupy>=1.0.0 
